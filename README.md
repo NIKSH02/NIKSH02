@@ -32,8 +32,9 @@
 # 📊 GitHub Stats:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NIKSH02&theme=dark&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKSH02&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="NIKSH02's GitHub Stats" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKSH02&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="NIKSH02's Most Used Languages" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -43,5 +44,5 @@
 
 
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="NIKSH02's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=NIKSH02&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="NIKSH02's Most Used Languages" />
+
+
