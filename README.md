@@ -33,8 +33,7 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=NIKSH02&theme=dark&hide_border=false)
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="NIKSH02's GitHub Stats"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=NIKSH02&theme=dark&hide_border=false) <img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="NIKSH02's GitHub Stats"/>
 
 ---
 
