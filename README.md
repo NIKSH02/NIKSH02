@@ -48,7 +48,9 @@
 ### 📊 GitHub Stats:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niksh02&" alt="niksh02" /></p>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
 
+
+[comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niksh02&" alt="niksh02" /></p>)
 
 ---
