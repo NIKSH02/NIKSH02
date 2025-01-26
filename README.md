@@ -51,10 +51,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NIKSH02&theme=dark&hide_border=false)
 
 ---
-
-
-[![](https://visitcount.itsvg.in/api?id=NIKSH02&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-
