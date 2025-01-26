@@ -31,12 +31,17 @@
 
 <img src="https://raw.githubusercontent.com/NIKSH02/NIKSH02/output/snake.svg" alt="Snake animation" />
 
+---
+
 ###
 ###
 
+ Visitors 💁🏻:
 <div align="center">
   <img src="https://profile-counter.glitch.me/NIKSH02/count.svg?"  />
 </div>
+
+---
 
 ###
 
@@ -47,8 +52,8 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=NIKSH02&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=NIKSH02&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
