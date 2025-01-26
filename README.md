@@ -48,9 +48,9 @@
 ### 📊 GitHub Stats:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=NIKSH02&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" /> ![](https://github-readme-streak-stats.herokuapp.com/?user=NIKSH02&theme=discord_old_blurple&hide_border=false)<br/>
 
 
-[comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niksh02&" alt="niksh02" /></p>)
+[comment]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niksh02&" alt="niksh02" /></p>  This is how to comment in Readme file)
 
 ---
